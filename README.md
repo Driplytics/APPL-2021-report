@@ -12,5 +12,5 @@ A look at the performance and growth of the giant tech company Apple
  • APPL Is also a cash machine, generating an increasing cash flow at the rate of 13.18% Compounded Annual return since 2018.
  • But looking at the company's Assets, Apple has 45.43% of it's assets on it's Financial Assets Investments. 
  • There are many more !Explore !!!
-  []( )[]
+  ![]()
 
