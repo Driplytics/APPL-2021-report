@@ -9,7 +9,7 @@ A look at the performance and growth of the giant tech company Apple
 
 ## My Focus
  1. I explored how Apple reduced it's outstanding shares by buying back(reducing) it's shares at rate of -5.52%  since 2018. 
- 2. APPL Is also a cash machine, generating an increasing cash flow at the rate of 13.18% Compounded Annual return since 2018.
+ 2. APPL is also a cash machine, generating an increasing cash flow at the rate of 13.18% Compounded Annual return since 2018.
  3. But looking at the company's Assets, Apple has 45.43% of it's assets on it's Financial Assets Investments. 
  4. There are many more !Explore !!!
 
