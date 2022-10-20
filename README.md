@@ -13,5 +13,5 @@ A look at the performance and growth of the giant tech company Apple
  3. But looking at the company's Assets, Apple has 45.43% of it's assets on it's Financial Assets Investments. 
  4. There are many more !Explore !!!
 
-  ![File]()
+  ![File](https://github.com/Driplytics/APPL-2021-report/blob/main/APPLArtboard%201_page-0001.jpg)
 
